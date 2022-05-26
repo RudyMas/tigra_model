@@ -1,6 +1,6 @@
 {
-  "name": "tiger/model",
-  "description": "PHP Class Model for the Tiger Framework",
+  "name": "tigra/model",
+  "description": "PHP Class Model for the Tigra Framework",
   "type": "library",
   "license": "GPL-3.0-or-later",
   "authors": [
@@ -20,7 +20,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Tiger\\": "src/"
+      "Tigra\\": "src/"
     }
   }
 }

@@ -1,16 +1,16 @@
-# PHP Class Model for the Tiger Framework
+# PHP Class Model for the Tigra Framework
 
-This is the Class Model which is used by Tiger.
+This is the Class Model which is used by Tigra.
 
 ## Installation
 Install the package using composer.
 ```
-composer require tiger/model
+composer require tigra/model
 ```
 
 or by editing composer.json yourself and adding:
 ```
 "require": {
-    "tiger/model": "*"
+    "tigra/model": "*"
 }
 ```

@@ -1,6 +1,6 @@
 <?php
 
-namespace Tiger;
+namespace Tigra;
 
 /**
  * Class Model (PHP version 7.4)
@@ -9,7 +9,7 @@ namespace Tiger;
  * @copyright   2022, rmsoft.be. (https://www.rmsoft.be/)
  * @license     https://opensource.org/licenses/GPL-3.0 GNU General Public License, version 3 (GPL-3.0)
  * @version     7.4.0.5
- * @package     Tiger
+ * @package     Tigra
  */
 class Model
 {
